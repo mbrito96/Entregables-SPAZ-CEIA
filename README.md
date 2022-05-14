@@ -1,5 +1,5 @@
 # Entregables-SPAZ-CEIA
-Entragables para especializacion de IA en CEIA UBA. 
+Entregables para especializacion de IA en CEIA UBA. 
 
 Alumno: Santiago Paz
-Cohorte: 6 
+Cohorte: 6ta
